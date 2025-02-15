@@ -1,6 +1,8 @@
 # AutoGluon Nutrients
 
-> Paper Title: Nutrient Prediction Using AutoGluon  
+> Paper Title: Consistent Retrieval of Nutrient Concentrations across Sentinel-2 and Sentinel-3 
+in Nearshore Waters
+
 > Author: Wendian Lai, Xiaolong Yu, Nengwang Chen, Caiyun Zhang, Yufang Wu, Shuiying Huang, Lingling Li, Zhongping Lee
 
 > Paper Link: submitted to JSTARS
