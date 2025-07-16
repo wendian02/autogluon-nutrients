@@ -5,7 +5,7 @@ in Nearshore Waters
 
 > Author: Wendian Lai, Xiaolong Yu, Nengwang Chen, Caiyun Zhang, Yufang Wu, Shuiying Huang, Lingling Li, Zhongping Lee
 
-> Paper Link: submitted to JSTARS
+> Paper Link: submitted to Ecological Informatics
 
 ## 1. Project Overview
 
